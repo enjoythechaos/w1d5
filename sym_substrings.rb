@@ -22,3 +22,5 @@ def find_symmetric_substrings(str, unmatched_substrings = [], result = [])
 end
 
 p find_symmetric_substrings("xanax")
+
+# New comment
